@@ -1,13 +1,7 @@
-# InundationMapSD2
-Project Submission for SD2
+# Inundation Map Android App
+Smart India Hackthon Project 2019
+(Ministry Of Water Resources, India.)
 
-Group Details:
-
-Name                                          Roll No.                      GR No.
-
-1.Prasenjit Hiwale                            223068                        21820099
-2.Shubham Patil                               223074                        21820152
-3.Vipul Lodha                                 223065                        2182
-4.Snehal Gunjal                               223070                        2182
-
-
+## Project Details.
+* Data Collection app for flood affected areas.
+* Instant Emergency Service Providers.
